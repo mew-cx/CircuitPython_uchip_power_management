@@ -1,0 +1,2 @@
+# CircuitPython_uChipPowerManagement
+CircuitPython bindings for uChipPowerManagement
